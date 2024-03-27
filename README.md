@@ -1,6 +1,6 @@
 # Tar-Archive-Project
 
-Project completed as of 2/26.
+Project completed as of 2/26, backed up to GitHub as of 3/26.
 
 About
 The mytar program is a more minimal, but still synonymous, version of the Unix tar program.
